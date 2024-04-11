@@ -1,10 +1,4 @@
 # %%
-pip install dash-bootstrap-components
-
-# %%
-pip install ipython
-
-# %%
 #import dependencies
 import dash
 import dash_bootstrap_components as dbc
